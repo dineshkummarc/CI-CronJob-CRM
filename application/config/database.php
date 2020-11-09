@@ -76,8 +76,8 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'catalin_apiadm',
-	'password' => 'x1qVCToO(=8F',
+	'username' => 'root',
+	'password' => '',
 	'database' => 'catalin_api',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
